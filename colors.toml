@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Next-gen Roadster, 15 Oct 2026.
+# Carbon void from the studio shots, Ano White seats and paint,
+# gold-glazed glass, and the full-width taillight.
+accent = "#d4b56e"
+selection = "#3a2428"
+muted = "#8e8b88"
+
+background = "#121214"
+dark_background = "#0e0e10"
+darker_background = "#070708"
+lighter_background = "#222226"
+
+foreground = "#f4f1ec"
+dark_foreground = "#9c9894"
+light_foreground = "#e4e0da"
+bright_foreground = "#fbfbfb"
+
+hyprland_active_border = "rgba(d4b56eee) rgba(ff3340ee) 45deg"
+hyprland_inactive_border = "rgba(2a2a2eaa)"
+active_border_color = "#d4b56e"
+active_tab_background = "#3a3228"
+
+red = "#ff3340"
+yellow = "#e7c48a"
+orange = "#dc9068"
+green = "#7dbe8a"
+cyan = "#8ec8c6"
+blue = "#7f97b8"
+magenta = "#d08aa0"
+brown = "#a88862"
+
+bright_red = "#ff5a63"
+bright_yellow = "#f3d7a4"
+bright_green = "#9ad4a4"
+bright_cyan = "#b4e4e2"
+bright_blue = "#a3b8d4"
+bright_magenta = "#e4b0c0"
